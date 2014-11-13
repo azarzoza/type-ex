@@ -1,7 +1,18 @@
 /* Your Website Styles */
 
 
-/* Show Grid */
+body {
+	font-family: 'Abril Fatface', cursive;
+	background: url('../img/greyfloral.png')
+}
+
+h1 { 
+	color: #B3D6C0;
+
+}
+
+/* Show Grid 
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
-}
+}*/
+
