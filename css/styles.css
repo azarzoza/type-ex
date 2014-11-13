@@ -3,11 +3,34 @@
 
 body {
 	font-family: 'Abril Fatface', cursive;
-	background: url('../img/greyfloral.png')
+	background-image: url('../img/greyfloral.png')
+
 }
 
 h1 { 
-	color: #B3D6C0;
+	color: #246669;
+	text-align: center;
+	font-size: 4em;
+
+}
+
+h3 {
+	color: #FF8683;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	
+
+}
+
+
+
+.dress {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 25%;
 
 }
 
